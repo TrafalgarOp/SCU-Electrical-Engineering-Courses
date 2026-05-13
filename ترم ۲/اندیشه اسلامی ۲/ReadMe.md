@@ -12,10 +12,10 @@
         </thead>
         <tbody>
             <tr>
+                <td>اندیشه اسلامی ۱</td>
                 <td>ندارد</td>
-                <td>ندارد</td>
-                <th>ریاضی ۱</th>
-                <td>3</td>
+                <th>اندیشه اسلامی ۲</th>
+                <td>2</td>
             </tr>
         </tbody>
     </table>

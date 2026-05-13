@@ -12,10 +12,10 @@
         </thead>
         <tbody>
             <tr>
+                <td></td>
                 <td>ندارد</td>
-                <td>ریاضی ۱</td>
-                <th>فیزیک ۱</th>
-                <td>3</td>
+                <th>آشنایی با مهندسی برق</th>
+                <td>1</td>
             </tr>
         </tbody>
     </table>

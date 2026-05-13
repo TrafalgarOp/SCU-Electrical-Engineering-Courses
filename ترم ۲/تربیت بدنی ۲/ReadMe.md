@@ -12,10 +12,10 @@
         </thead>
         <tbody>
             <tr>
+                <td>تربیت بدنی ۱</td>
                 <td>ندارد</td>
-                <td>ریاضی ۱</td>
-                <th>فیزیک ۱</th>
-                <td>3</td>
+                <th>تربیت بدنی ۲</th>
+                <td>1</td>
             </tr>
         </tbody>
     </table>

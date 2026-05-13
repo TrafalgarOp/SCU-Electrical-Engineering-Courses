@@ -13,9 +13,9 @@
         <tbody>
             <tr>
                 <td>ندارد</td>
-                <td>ریاضی ۱</td>
-                <th>فیزیک ۱</th>
-                <td>3</td>
+                <td>فیزیک ۱</td>
+                <th>آزمایشگاه فیزیک ۱</th>
+                <td>1</td>
             </tr>
         </tbody>
     </table>

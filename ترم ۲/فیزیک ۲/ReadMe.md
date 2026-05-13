@@ -12,9 +12,9 @@
         </thead>
         <tbody>
             <tr>
+                <td>فیزیک ۱</td>
                 <td>ندارد</td>
-                <td>ریاضی ۱</td>
-                <th>فیزیک ۱</th>
+                <th>فیزیک ۲</th>
                 <td>3</td>
             </tr>
         </tbody>
