@@ -6,6 +6,7 @@
 | [سایت دانشکده مهندسی](https://eng.scu.ac.ir/) | [صفحه گروه برق](https://eng.scu.ac.ir/ee) |
 | --- | --- |
 
+## تمام گرایش‌ها
 
 | ترم ۱ | ترم ۲ | ترم ۳ | ترم ۴ |
 | -------- | -------- | -------- | -------- |
@@ -18,6 +19,11 @@
 | [7- اندیشه اسلامی ۱](https://github.com/GAGHL/SCU-Electrical-Engineering-Courses/blob/main/%D8%AA%D8%B1%D9%85%20%DB%B1/7-%20%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C%20%DB%B1) | [15- تربیت بدنی ۲](https://github.com/GAGHL/SCU-Electrical-Engineering-Courses/blob/main/%D8%AA%D8%B1%D9%85%20%DB%B2/15-%20%D8%AA%D8%B1%D8%A8%DB%8C%D8%AA%20%D8%A8%D8%AF%D9%86%DB%8C%20%DB%B2) | [23- اخلاق اسلامی](https://github.com/GAGHL/SCU-Electrical-Engineering-Courses/tree/main/%D8%AA%D8%B1%D9%85%20%DB%B3/23-%20%D8%A7%D8%AE%D9%84%D8%A7%D9%82%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C) | [30- انقلاب اسلامی ایران](https://github.com/GAGHL/SCU-Electrical-Engineering-Courses/tree/main/%D8%AA%D8%B1%D9%85%20%DB%B4/30-%20%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86) |
 | [8- تربیت بدنی ۱](https://github.com/GAGHL/SCU-Electrical-Engineering-Courses/blob/main/%D8%AA%D8%B1%D9%85%20%DB%B1/8-%20%D8%AA%D8%B1%D8%A8%DB%8C%D8%AA%20%D8%A8%D8%AF%D9%86%DB%8C%20%DB%B1) | [16- آشنایی با مهندسی برق](https://github.com/GAGHL/SCU-Electrical-Engineering-Courses/blob/main/%D8%AA%D8%B1%D9%85%20%DB%B2/16-%20%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C%20%D8%A8%D8%A7%20%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C%20%D8%A8%D8%B1%D9%82) |   | [31- دانش خانواده و جمعیت](https://github.com/GAGHL/SCU-Electrical-Engineering-Courses/tree/main/%D8%AA%D8%B1%D9%85%20%DB%B4/31-%20%D8%AF%D8%A7%D9%86%D8%B4%20%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87%20%D9%88%20%D8%AC%D9%85%D8%B9%DB%8C%D8%AA) |
 
+
+
+
+
+## گرایش الکترونیک
 
 | ترم ۵ | ترم ۶ | ترم ۷ | ترم ۸ |
 | -------- | -------- | -------- | -------- |
